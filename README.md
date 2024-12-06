@@ -27,3 +27,7 @@ A tool for extracting GPS information from photos and visualizing them on maps.
 - **Functionality**: Visualizes GPS data on a map.
 - **Usage**:   ```bash
   python visualize_gps.py <gps-data-file>  ```
+
+## example picture
+
+![](README/visualize_csv.jpg)
